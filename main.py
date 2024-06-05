@@ -1,1 +1,1 @@
-print("initial hello,hi how are you")
+print("initial hello,hi how are you? I'm an antagonist today.")
